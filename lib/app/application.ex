@@ -3,8 +3,11 @@ defmodule App.Application do
   # for more information on OTP Applications
   @moduledoc false
 
-  use Application
+  # * Remember that starting the application amounts to calling the start/2 function
+  # * from the callback module.
 
+  use Application
+# * Callback Function
   @impl true
   def start(_type, _args) do
     children = [

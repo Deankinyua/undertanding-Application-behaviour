@@ -1,0 +1,4 @@
+%{
+  "castore": {:hex, :castore, "1.0.8", "dedcf20ea746694647f883590b82d9e96014057aff1d44d03ec90f36a5c0dc6e", [:mix], [], "hexpm", "0b2b66d2ee742cb1d9cb8c8be3b43c3a70ee8651f37b75a8b982e036752983f1"},
+  "tailwind": {:hex, :tailwind, "0.2.3", "277f08145d407de49650d0a4685dc062174bdd1ae7731c5f1da86163a24dfcdb", [:mix], [{:castore, ">= 0.0.0", [hex: :castore, repo: "hexpm", optional: false]}], "hexpm", "8e45e7a34a676a7747d04f7913a96c770c85e6be810a1d7f91e713d3a3655b5d"},
+}
