@@ -7,7 +7,7 @@ defmodule App.Application do
   # * from the callback module.
 
   use Application
-# * Callback Function
+  # * Callback Function
   @impl true
   def start(_type, _args) do
     children = [
